@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá, este é o perfil dos alunos Hítalo e John 👋
 
-<!--
-**HitaloJohnLTV/HitaloJohnLTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Atualmente estamos estudando na escola E.E.E.P Luíza de Teodoro Vieira no 3° ano;
+- Cursando técnico em informática - 3/3
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <div align="left">
+  <a href="https://github.com/hitalo-lima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hitalo-lima&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalo-lima&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
+  
+  ## 
+  ### Linguagens que uso
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Logo Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div> -->
